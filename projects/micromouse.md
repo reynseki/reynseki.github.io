@@ -9,7 +9,7 @@ labels:
   - esports
 
 ---
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/IMG_2829.JPG">
 
 # Professional Esports Player
 In 2019 I had the opportunity to play video games professionally (otherwise known as esports) for a short while.  I competed in a game known as Apex Legends for a well known team called Immortals.  They are mostly known for having a franchise spot in another esport, League of Legends.
