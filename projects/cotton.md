@@ -17,4 +17,4 @@ This is the second WOD (Workout of the day) that we had to complete for homework
 
 
 
-img/dafdfasfasf.PNG
+<img width="500px" class="rounded float-start pe-4" src="../img/dafdfasfasf.PNG">
