@@ -1,7 +1,16 @@
+---
+layout: essay
+type: essay
+title: "Javascript: Into the Unknown(again)"
+# All dates must be YYYY-MM-DD format!
+date: 2023-08-30
 published: true
-# Javascript: Into the Unknown (again)
+labels:
+  - Javascript
+  - Learning
+---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/tes_gen_blog_code7-1-800x412.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
 As with learning anything new, there comes the feelings of anxiety, uncomfortableness, and uncertainty with what lies ahead.  For computer scientists, this happens more often than others.  Constantly having to learn new coding languages or techniques to keep up with the times, some would say we are crazy.  But unlike languages you speak such as English or Japanese, coding languages more often than not build on each other.  After a while, it makes constantly diving into the unknown a little easier each time.  
 
