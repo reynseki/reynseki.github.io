@@ -1,14 +1,4 @@
----
-layout: essay
-type: essay
-title: "Javascript: Jumping into the Unknown(Again)"
-# All dates must be YYYY-MM-DD format!
-date: 2023-08-30
-published: true
-labels:
-  - Javascript
-  - Learning
----
+# Javascript: Into the Unknown (again)
 
 <img width="500px" class="rounded float-start pe-4" src="../img/tes_gen_blog_code7-1-800x412.jpg">
 
