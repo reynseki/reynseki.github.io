@@ -1,3 +1,4 @@
+published: true
 # Javascript: Into the Unknown (again)
 
 <img width="500px" class="rounded float-start pe-4" src="../img/tes_gen_blog_code7-1-800x412.jpg">
