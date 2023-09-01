@@ -11,7 +11,7 @@ labels:
 summary: "A dodgeball type of game I developed for ICS 111."
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/tes_gen_blog_code7-1-800x412.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/111Project.PNG">
 
 # Dodgeball
 This project was made a long time ago during my ICS 111 class.  It implements the java language, eclipse, and EZGraphics.  The EZGraphics allow for more options when programming games in Java/Eclipse.  
