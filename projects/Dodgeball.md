@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/image_processing20210411-17466-1s6zi65.png
 title: "Dodgeball"
-date: 2018-10-25
+date: 2018
 published: true
 labels:
   - Java
