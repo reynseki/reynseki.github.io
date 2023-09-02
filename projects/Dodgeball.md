@@ -1,13 +1,14 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/image_processing20210411-17466-1s6zi65.png
 title: "Dodgeball"
 date: 2018-10-25
 published: true
 labels:
   - Java
   - EZGraphics
+  - ICS111
 summary: "A dodgeball type of game I developed for ICS 111."
 ---
 
