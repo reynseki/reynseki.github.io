@@ -7,7 +7,7 @@ date: 2019
 published: true
 labels:
   - esports
-
+summary: "Played for the professional esports organization Immortals Gaming Club" 
 ---
 <img class="img-fluid" src="../img/IMG_2829.JPG">
 
