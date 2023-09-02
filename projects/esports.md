@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/micromouse/professional-esports-player.jpg
-title: "Micromouse"
+image: img/300px-Immortals_allmode.png
+title: "Immortals"
 date: 2019
 published: true
 labels:
