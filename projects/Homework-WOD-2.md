@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
+image: img/Exercise and Mental Health BO.jpg
+title: "Homework WOD #2"
 date: 2023
 published: true
 labels:
