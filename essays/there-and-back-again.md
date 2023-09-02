@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/tes_gen_blog_code7-1-800x412.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/360_815ceffe93c60e649029b96e05fdd946.jpg">
 
 Growing up, the thought of being a computer engineer was nowhere near the forefront of what I wanted to do.  My days in preschool were filled playing with blocks and legos, therefore at the mature age of five I knew I wanted to be an architect.  But as I grew older, the world also grew around me.  Technology took over and instead of playing with blocks and legos, I started surrounding myself with my computer, phone, and video games.  By the time I was in high school, I knew technology would only become a bigger part of the world and that becoming a computer engineer would be the best way to involve myself in that space.
 
