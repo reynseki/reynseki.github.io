@@ -18,3 +18,6 @@ The first thing I noticed about this [question](https://stackoverflow.com/questi
 
 ## The Bad Stuff
 The first thing I noticed about this [question](https://stackoverflow.com/questions/77063438/im-having-problems-implementing-classes-in-c) was that the user posted his entire project description and the requirements into the question.  This was a red flag for me because it already told me there wasn’t going to be a specific question being asked.  Furthermore, there was not a clear question asked.  Instead, there were multiple points made about what does not work in the code.  Although there were not many aggressive responses to this question, the post was downvoted meaning it was not a good question.  
+
+## Final Thoughts
+The biggest pet peeve I have noticed when it comes to stackoverflow questions is when people ask for homework answers rather than actual help on problems.  That was sort of highlighted in the “bad question” section and like stated before it is normally a red flag when it comes to stackoverflow.  Personally, I think the best questions to ask are the concise ones about certain concepts rather than huge broad problems.  They are questions that can be easily understood and answered and can provide the biggest benefit in terms of learning.  
