@@ -33,9 +33,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-08-21",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,69 +43,79 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Board of Water Supply for the State of Hawaii",
+      "position": "Student Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2019-12-12",
+      "endDate": "2022-6-31",
+      "summary": "Procurement Division (November 2019 - December 2021)",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assisted in moving all procurement contracts from 2005-present from paper to digital",
+        "Assisted in the scanning and migrating of various documents such as memos, emails, and letters"
+      ],
+      "summary2": "Budget Division (January 2022 - June 2022)",
+      "highlights2": [
+        "Input Data on excel spreadsheets",
+        "Scanning of various documents",
+        "Organization of various files and folders",
+        "Run reports in the budgeting software"
       ]
+      
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Immortals Gaming LLC",
+      "position": "Professional Esports Player",
+      "website": "https://immortals.gg/",
+      "startDate": "2019-04-01",
+      "endDate": "2019-08-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Communication with various sporting and peripheral brands",
+        "Experience representing a reuptable Sports team",
+        "Cooperation amongst teammates and use of deductive reasoning/critical thinking"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Department of Accounting and General Services for the State of Hawaii",
+      "website": "https://ags.hawaii.gov/",
+      "position": "Volunteer Worker",
+      "startDate": "2011",
+      "endDate": "2017",
+      "summary": "Personnel Division (2011-2014 Spring, Winter, and Summer breaks",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Volunteer Worker",
+        "Assisted in the destruction of confidtional personnel information",
+        "Assisted with the organization and filing of confidentional personnel information"
+      ],
+      "summary2": "Accounting Division (2012-2013 Summer Break",
+      "highlights2": [
+        "Volunteer Worker",
+        "Assisted in the filing of documents",
+        "Assisted accountants with various tasks"
+      ],
+      "summary3": "Public Works Division (2014-2015 Summer Break",
+      "highlights3": [
+        "Volunteer Worker",
+        "Assisted engineers with varioius tasks"
+      ],
+      "summary4": "Survey Division (2016-2017 Summer Break)",
+      "highlights4": [
+        "Volunteer Worker",
+        "Assisted in the scanning of shoreline maps from the late 1900s-present",
+        "Went out on field survey to view and assist in measuring shoreline acccess"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Second Place",
+      "date": "2021",
+      "awarder": "Association of Pacific Rim Universities(APRU)",
+      "summary": "My paper on how Hawaii and Guam can serve as important pieces in connecting international esporst got second place in the APRU student esports paper competition",
+      "highlights": "The paper can be found linked below",
+      "website": "https://www.ijesports.org/article/113/html"
     }
   ],
   "references": [
