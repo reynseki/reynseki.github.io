@@ -6,7 +6,7 @@ title: "There and Back Again"
 date: 2023-08-31
 published: true
 labels:
-  - Javascript
+  - Computer Science
   - Learning
 ---
 
