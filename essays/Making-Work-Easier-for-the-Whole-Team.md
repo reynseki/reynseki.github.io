@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Javascript: Into the Unknown(again)"
+title: "Making Work Easier for the Team"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-30
+date: 2023-09-20
 published: true
 labels:
   - Javascript
