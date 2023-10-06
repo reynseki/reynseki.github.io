@@ -6,7 +6,10 @@ title: "Work Harder Now, Work Less Later"
 date: 2023-10-05
 published: true
 labels:
-  - Engineering
+  - Bootstrap
+  - HTML
+  - CSS
+  - Framework
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/work.jpeg">
