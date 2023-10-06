@@ -12,7 +12,7 @@ labels:
   - Framework
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/work.jpeg">
+<img width="500px" class="rounded float-start pe-4" src="../img/work.jpeg">
 
 
 ## More Work Now 
