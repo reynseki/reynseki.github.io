@@ -1,13 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "There and Back Again"
+title: "AI and its place in Education"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-31
+date: 2023-11-21
 published: true
 labels:
   - Computer Science
-  - Learning
+  - Education
+  - ChatGPT
+  - AI
 ---
 
 ## Intro
