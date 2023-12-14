@@ -13,7 +13,7 @@ labels:
   - Ethics
 ---
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/terminator.jpeg">
+<img width="750px" class="rounded float-start pe-4" src="../img/terminator.jpeg">
 
 Throughout this semester I have learned a variety of skills that I can see myself using beyond the classroom and college itself.  I also have learned a lot more about software engineering and what that really means.  Going into the class, I was really only expecting to learn how to design a website, but I found that software engineering encompasses a lot more aspects than just that.  From concepts such as coding standards to ethics, there is a lot more that goes into software engineering than most would think.  
 
