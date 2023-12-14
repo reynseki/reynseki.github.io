@@ -12,7 +12,7 @@ labels:
 summary: "A website my group and I designed for our ICS314 final project."
 ---
 
-<img width="500px"  src="../img/index.png">
+<img width="750px"  src="../img/index.png">
 
 
 # ToiletFinder
