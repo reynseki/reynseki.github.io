@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Reyn Seki",
+    "label": "Student",
+    "picture": "https://github.com/reynseki.png",
+    "email": "reynseki@hawaii.edu",
+    "phone": "808-445-1355",
+    "website": "https://reynseki.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "reynseki", "url": "http://github.com/reynseki" },
+      { "network": "linkedin", "username": "reynseki", "url": "http://linkedin.com/in/reynseki" }
+    ]
+  },
+  "interests": [
+    { "name": "Artificial Intelligence" },
+    { "name": "Cryptocurrency" },
+    { "name": "Quantum Computing" },
+    { "name": "Cyber Security" },
+    { "name": "Blockchain" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2018-08-21",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Board of Water Supply for the State of Hawaii",
+      "position": "Student Intern",
+      "website": "",
+      "startDate": "2019-12-12",
+      "endDate": "2022-6-31",
+      "summary1": "Procurement Division (November 2019 - December 2021)",
+      "highlights": [
+        "Assisted in moving all procurement contracts from 2005-present from paper to digital",
+        "Assisted in the scanning and migrating of various documents such as memos, emails, and letters"
+      ],
+      "summary2": "Budget Division (January 2022 - June 2022)",
+      "highlights2": [
+        "Input Data on excel spreadsheets",
+        "Scanning of various documents",
+        "Organization of various files and folders",
+        "Run reports in the budgeting software"
+      ]
+      
+    },
+    {
+      "company": "Immortals Gaming LLC",
+      "position": "Professional Esports Player",
+      "website": "https://immortals.gg/",
+      "startDate": "2019-04-01",
+      "endDate": "2019-08-01",
+      "summary": "",
+      "highlights": [
+        "Communication with various sporting and peripheral brands",
+        "Experience representing a reuptable Sports team",
+        "Cooperation amongst teammates and use of deductive reasoning/critical thinking"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Department of Accounting and General Services for the State of Hawaii",
+      "website": "https://ags.hawaii.gov/",
+      "position": "Volunteer Worker",
+      "startDate": "2011",
+      "endDate": "2017",
+      "summary1": "Personnel Division (2011-2014 Spring, Winter, and Summer breaks",
+      "highlights": [
+        "Volunteer Worker",
+        "Assisted in the destruction of confidtional personnel information",
+        "Assisted with the organization and filing of confidentional personnel information"
+      ],
+      "summary2": "Accounting Division (2012-2013 Summer Break",
+      "highlights2": [
+        "Volunteer Worker",
+        "Assisted in the filing of documents",
+        "Assisted accountants with various tasks"
+      ],
+      "summary3": "Public Works Division (2014-2015 Summer Break",
+      "highlights3": [
+        "Volunteer Worker",
+        "Assisted engineers with varioius tasks"
+      ],
+      "summary4": "Survey Division (2016-2017 Summer Break)",
+      "highlights4": [
+        "Volunteer Worker",
+        "Assisted in the scanning of shoreline maps from the late 1900s-present",
+        "Went out on field survey to view and assist in measuring shoreline acccess"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Second Place APRU Scholarship Paper",
+      "date": "2021",
+      "awarder": "Association of Pacific Rim Universities(APRU)",
+      "summary": "My research paper on how Hawaii and Guam can serve as important pieces in connecting international esports got second place in the APRU student esports paper competition",
+      "highlights": "The paper can be found linked below",
+      "website": "https://www.ijesports.org/article/113/html"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
